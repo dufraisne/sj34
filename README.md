@@ -28,4 +28,4 @@ CucumberJS
 Protractor
 Selenium
 
-Feel free to contribute additional phrases to the adultDict.
+Feel free to contribute additional phrases to the adultDict.    
